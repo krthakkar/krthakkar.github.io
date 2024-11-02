@@ -10,7 +10,7 @@ redirect_from:
 <!-- Khushboo Thakkar
 
 ===== -->
-
+Hi, I am a sixth year Ph.D. student in Economics at UNC Chapel Hill.
 
 
 
