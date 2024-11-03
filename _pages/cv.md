@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv="refresh" content="0; url='/files/CV_Khushboo.pdf'" />
+{% include base_path %}
 
+<embed src="/files/CV_Khushboo.pdf" type="application/pdf" width="100%" height="120px" />
