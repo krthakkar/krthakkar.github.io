@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Khushboo Thakkar"
+title                    : "Praveen Punia"
 title_separator          : "-"
-name                     : &name "Khushboo Thakkar"
+name                     : &name "Praveen Punia"
 description              : &description "personal description"
-url                      : https://krthakkar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ppunia74.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,16 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Khushboo Thakkar" #" Your Sidebar Name"
+  name             : "Praveen Punia" #" Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : #"Empirical Marketing Strategy Ph.D. Candidate | C.T. Bauer College of Business| University of Houston" #Short biography for the left-hand sidebar"
-  location         : #"Melcher Hall, 4750 Calhoun Rd, Houston, TX 77004" # "Houston, TX"
-#  employer_logo    : "unc_logo.png"  # path to UNC logo image
-  employer         : "University of North Carolina"
+  bio              : "Empirical Marketing Strategy Ph.D. Candidate | C.T. Bauer College of Business| University of Houston" #Short biography for the left-hand sidebar"
+  location         : "Melcher Hall, 4750 Calhoun Rd, Houston, TX 77004" # "Houston, TX"
+  employer         : "University of Houston"
   uri              : # URL
- # email_icon       : "email_icon.jpg"   # path to email icon image
-  email            : "kthakkar@live.unc.edu" 
-  
+  email            : "ppraveen@uh.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -46,21 +43,35 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"krthakkar"
+  github           : "ppunia74"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
+  keybase          : # Username
   instagram        : # Username
+  lastfm           : # Username
   linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
   wikipedia        : # Username
+  xing             : # Username
   youtube          : # Username
+  zhihu            : # URL
 
 
 # Site Settings
@@ -189,10 +200,13 @@ kramdown:
 
 # Collections
 collections:
-#  teaching:
-#    output: true
-#     permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
