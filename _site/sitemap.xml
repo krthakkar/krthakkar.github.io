@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/portfolio/portfolio-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/portfolio/portfolio-2/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00-07:00</lastmod>
 </url>
@@ -37,6 +43,14 @@
 <lastmod>2014-03-01T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/teaching/2015-spring-teaching-1</loc>
+<lastmod>2015-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/teaching/2024-summer-teaching-1</loc>
+<lastmod>2024-01-01T00:00:00-08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -70,6 +84,9 @@
 <loc>http://localhost:4000/research/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/sitemap/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tags/</loc>
 </url>
 <url>
@@ -86,9 +103,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/year-archive/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/_pages/sitemap/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/markdown_generator/</loc>
