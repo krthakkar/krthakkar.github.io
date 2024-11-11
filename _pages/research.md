@@ -5,7 +5,7 @@ permalink: /research/ #/publications/
 author_profile: true
 ---
 
-__Trade Credit under a Pro-Creditor Bankruptcy Regime__ (Draft available on request)
+__Trade Credit under a Pro-Creditor Bankruptcy Regime__ (https://github.com/krthakkar/krthakkar.github.io/blob/main/files/KThakkar_JMP.pdf)
 
 Trade credit provides customers the flexibility to procure goods from their suppliers without immediate cash payment, serving as a fundamental form of short-term financing. If suppliers are granted increased legal protection, but financial creditors gain greater protections in bankruptcy, does the availability of trade credit increase or decrease? This is an important consideration since an increase in the rights of both groups of creditors can influence the lending behavior (supply) of suppliers and also the borrowing behavior (demand) of debtors. Leveraging a recent bankruptcy reform in India which strengthened creditor rights, I find an uptick in trade credit usage of firms closer to default. Furthermore, these firms do not experience a corresponding drop in profitability or bank borrowing indicating a supply driven increase in trade credit. Therefore, strengthening creditor rights increases the willingness of suppliers to extend more trade credit which plays a role in sustaining distressed firms.
 
