@@ -5,24 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<!-- <style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style> -->
-
-
 <style>
-/* Apply borderless styling, custom font, and size only on this page */
+/* Apply borderless styling and adjust font size */
 table {
-    /*font-family: Hel; /* Replace with desired font */
     font-size: 18px; /* Adjust font size as needed */
     border-collapse: collapse;
     width: 100%;
@@ -34,17 +19,38 @@ table, th, td {
 }
 </style>
 
-## Course Instructor (UNC Chapel Hill)
+<h2>Course Instructor (UNC Chapel Hill)</h2>
+<table>
+  <tr>
+    <td>Econ 410: Intermediate Microeconomics</td>
+    <td>Summer 2021</td>
+  </tr>
+</table>
 
-|----------------------------------------------|-----------------|
-| Econ 410: Intermediate Microeconomics        | Summer 2021     |
-
-## Teaching Assistant (UNC Chapel Hill)
-
-|----------------------------------------------|--------------------------|
-| Econ 101: Introduction to Economics          | Spring - Fall 2024       |
-| Econ 423: Financial Markets and Economic Fluctuations | Fall 2023        |
-| Econ 520: Advanced Macroeconomics Theory     | Spring 2023 – Fall 2023  |
-| Econ 573: Machine Learning and Econometrics  | Spring 2023              |
-| Econ 125: Introduction to Entrepreneurship   | Fall 2022                |
-| Econ 410: Intermediate Microeconomics        | Fall 2020 – Spring 2022  |
+<h2>Teaching Assistant (UNC Chapel Hill)</h2>
+<table>
+  <tr>
+    <td>Econ 101: Introduction to Economics</td>
+    <td>Spring - Fall 2024</td>
+  </tr>
+  <tr>
+    <td>Econ 423: Financial Markets and Economic Fluctuations</td>
+    <td>Fall 2023</td>
+  </tr>
+  <tr>
+    <td>Econ 520: Advanced Macroeconomics Theory</td>
+    <td>Spring 2023 – Fall 2023</td>
+  </tr>
+  <tr>
+    <td>Econ 573: Machine Learning and Econometrics</td>
+    <td>Spring 2023</td>
+  </tr>
+  <tr>
+    <td>Econ 125: Introduction to Entrepreneurship</td>
+    <td>Fall 2022</td>
+  </tr>
+  <tr>
+    <td>Econ 410: Intermediate Microeconomics</td>
+    <td>Fall 2020 – Spring 2022</td>
+  </tr>
+</table>
