@@ -36,8 +36,8 @@ table, th, td {
 
 ## Course Instructor (UNC Chapel Hill)
 
-|---------------------------|-----------------|
-| Econ 410: Intermediate Microeconomics    | Summer 2021                 |
+|-----------------------------------------------|-------------------------|
+| Econ 410: Intermediate Microeconomics    | Summer 2021                  |
 
 ## Teaching Assistant (UNC Chapel Hill)
 
