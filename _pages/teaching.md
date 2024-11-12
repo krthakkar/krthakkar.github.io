@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Course Instructor (UNC Chapel Hill)
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border-collapse: collapse; width: 100%; border: none; font-size: 18px;">
   <tr>
     <td style="padding: 4px 2px; border: none; width: 400px;">Econ 410: Intermediate Microeconomics</td>
     <td style="padding: 4px 2px; text-align: left; border: none; width: 150px;">Summer 2021</td>
@@ -15,7 +15,7 @@ author_profile: true
 
 ## Teaching Assistant (UNC Chapel Hill)
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border-collapse: collapse; width: 100%; border: none; font-size: 18px;">
   <tr>
     <td style="padding: 4px 2px; border: none; width: 400px;">Econ 101: Introduction to Economics</td>
     <td style="padding: 4px 2px; text-align: left; border: none; width: 150px;">Spring - Fall 2024</td>
