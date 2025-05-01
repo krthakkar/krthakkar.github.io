@@ -22,7 +22,7 @@ author_profile: true
   </tr>
   <tr>
     <td style="padding: 4px 2px; border: none; width: 400px;">Econ 423: Financial Markets and Economic Fluctuations</td>
-    <td style="padding: 4px 2px; text-align: left; border: none; width: 150px;">Fall 2023</td>
+    <td style="padding: 4px 2px; text-align: left; border: none; width: 150px;">Fall 2023 & Spring 2025</td>
   </tr>
   <tr>
     <td style="padding: 4px 2px; border: none; width: 400px;">Econ 520: Advanced Macroeconomics Theory</td>
